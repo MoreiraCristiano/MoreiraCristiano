@@ -9,7 +9,11 @@ const cristianoMoreira = {
   full_name: "Cristiano Moreira do Amaral",
   age: 21,
   isWorking: true,
-  code: ["Python", "Javascript", "C/C++", "HTML", "CSS"],
+  isStudying: true,
+  university: "Universidade São Francisco",
+  course: "Computer Engineering",
+  semester: "08/10",
+  main_languages: ["Python", "Javascript", "C/C++", "HTML", "CSS"],
   technologies: {
     frontend: {
       web: ["HTML", "CSS"],
@@ -20,25 +24,27 @@ const cristianoMoreira = {
       python: ["FastAPI"],
     },
     devops: {
-      learning: ["Docker", "Jenkins", "CI/CD/CT"]
+      learning: ["Docker", "Jenkins", "CI/CD/CT"],
     },
     database: {
       learning: ["MySQL", "MongoDB"],
     },
     OS: {
       host: "Windows",
-      VM: "Always linux, linux and linux <3"
+      VM: "Always linux, linux and linux ❤",
+      useWsl: true,
     },
     other_tools_level: {
       robot_framework: "starter",
       pandas: "starter",
       git: "intermediate",
-    }
-  }
+      postman: "intermediate",
+    },
+  },
   more_details: {
-    1: "I wanna to become a full cycle developer",
-    2: "A debian/ubuntu lover",
-    3: "I am currently working on a CI/CD/CT area"
-  }
+    1: "I wanna to become a Full Cycle developer",
+    2: "A debian/ubuntu lover 💘",
+    3: "I am currently working on a CI/CD/CT area",
+  },
 };
 ```
