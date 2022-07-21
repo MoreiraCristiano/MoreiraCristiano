@@ -9,6 +9,10 @@ const cristianoMoreira = {
   full_name: "Cristiano Moreira do Amaral",
   age: 21,
   isWorking: true,
+  working_on: {
+    company: "Telefónica Brasil SA",
+    link: "https://www.telefonica.com.br/",
+  },
   isStudying: true,
   university: "Universidade São Francisco",
   course: "Computer Engineering",
