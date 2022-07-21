@@ -8,7 +8,21 @@ Hi, I'm Cristiano and I'm currently a computer engineering student.
 const cristianoMoreira = {
   pronouns: "he" | "him",
   code: [Python, Javascript, HTML, CSS],
-  tools: [React, Node, Express, Docker, Pandas, Linux, Git, SQL],
-  goal: "Become a full cycle developer",
+  tools: {
+    Robot_framework: "starter",
+    SQL: "starter",
+    React: "begginer",
+    NodeJS: "begginer",
+    ExpressJS: "begginer",
+    Docker: "begginer",
+    Pandas: "begginer",
+    Linux: "intermediate",
+    Git: "intermediate",
+  }
+  more_details: {
+    1: "I wanna to become a full cycle developer",
+    2: "A debian/ubuntu lover",
+    3: "I am currenttly working on a CI/CD/CT area"
+  }
 };
 ```
