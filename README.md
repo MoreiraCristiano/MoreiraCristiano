@@ -6,19 +6,21 @@ Hi, I'm Cristiano and I'm currently a computer engineering student.
 
 ```javascript
 const cristianoMoreira = {
-  pronouns: "he" | "him",
-  code: [Python, Javascript, HTML, CSS],
+  full_name: "Cristiano Moreira do Amaral",
+  age: 21,
+  isWorking: true,
+  code: ["Python", "Javascript", "C/C++", "HTML", "CSS"],
   technologies: {
     frontend: {
       web: ["HTML", "CSS"],
       js: ["React"],
     },
     backend: {
-      js: ["node", "express"],
+      js: ["Node", "Express"],
       python: ["FastAPI"],
     },
     devops: {
-      learning: ["Docker", "Jenkins", "CI/CD/CT", "Ansible"]
+      learning: ["Docker", "Jenkins", "CI/CD/CT"]
     },
     database: {
       learning: ["MySQL", "MongoDB"],
@@ -27,7 +29,7 @@ const cristianoMoreira = {
       host: "Windows",
       VM: "Always linux, linux and linux <3"
     },
-    other_tools: {
+    other_tools_level: {
       robot_framework: "starter",
       pandas: "starter",
       git: "intermediate",
@@ -36,7 +38,7 @@ const cristianoMoreira = {
   more_details: {
     1: "I wanna to become a full cycle developer",
     2: "A debian/ubuntu lover",
-    3: "I am currenttly working on a CI/CD/CT area"
+    3: "I am currently working on a CI/CD/CT area"
   }
 };
 ```
