@@ -4,6 +4,7 @@ Hi, I'm Cristiano and I'm currently a computer engineering student.
 
 # More about me
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 ```javascript
 const cristianoMoreira = {
   pronouns: "he" | "him",
