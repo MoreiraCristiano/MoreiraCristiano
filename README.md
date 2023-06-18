@@ -16,7 +16,7 @@ const cristianoMoreira = {
   isStudying: true,
   university: "Universidade São Francisco",
   course: "Computer Engineering",
-  semester: "08/10",
+  semester: "10/10",
   main_languages: ["Python", "Javascript", "C/C++", "HTML", "CSS"],
   technologies: {
     frontend: {
@@ -44,11 +44,6 @@ const cristianoMoreira = {
       git: "intermediate",
       postman: "intermediate",
     },
-  },
-  more_details: {
-    1: "I wanna to become a Full Cycle developer",
-    2: "A debian/ubuntu lover 💘",
-    3: "I am currently working on a CI/CD/CT area",
-  },
+  }
 };
 ```
