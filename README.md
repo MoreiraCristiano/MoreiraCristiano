@@ -5,7 +5,7 @@
 ### About me
 
 - I'm a Computer Engineer 💻
-
+- Python development 🐍
 
 <div align="center" valign="top">
   <img  style="margin-right: 1em;" height="210em" src="https://github-readme-stats.vercel.app/api?username=MoreiraCristiano&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -23,5 +23,3 @@
   <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">
 </div>
-
-
