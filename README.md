@@ -1,5 +1,5 @@
-<div>
-  <img  height="150em" src="Hello-I-m-Cristiano-02-01-2024.png"/>
+<div style="display: flex; justify-content: center;">
+  <img height="150em" src="Hello-I-m-Cristiano-02-01-2024.png" />
 </div>
 
 <div>
