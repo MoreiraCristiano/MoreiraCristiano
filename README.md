@@ -33,5 +33,5 @@
 <br />
 
 <a href="https://www.linkedin.com/in/cristiano-moreira-114b28176/">
-  <img align="right" alt="Cristiano Moreira | linkedin" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
+  <img align="right" alt="Cristiano Moreira | linkedin" width="21px" src="LinkedIn_icon.svg.png" />
 </a>
