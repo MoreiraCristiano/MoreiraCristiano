@@ -26,7 +26,7 @@
 
 #### Top Repositories
 
-<a href="https://github.com/MoreiraCristiano/github-readme-stats">
+<a href="https://github.com/MoreiraCristiano/ssh-inventory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MoreiraCristiano&repo=ssh-inventory&theme=buefy" />
 </a>
 
