@@ -1,5 +1,5 @@
 <div align="center" valign="top">
-  <p style="background-color: #4CAF50; color: black; padding: 100px; text-align: center;">Bem-vindo ao Meu Perfil</p>
+  <h1>Bem-vindo ao Meu Perfil</h1>
 </div>
 
 <div align="center" valign="top">
