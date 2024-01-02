@@ -1,5 +1,6 @@
 <div align="center" valign="top">
-  <img height="150em" src="Hello-I-m-Cristiano-02-01-2024.png" />
+  <div style="background-color: #4CAF50; color: white; padding: 10px; text-align: center;">
+  <h1>Bem-vindo ao Meu Perfil</h1>
 </div>
 
 <div align="center" valign="top">
