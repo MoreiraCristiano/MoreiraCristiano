@@ -32,6 +32,6 @@
 <br />
 <br />
 
-<a href="https://www.linkedin.com/in/cristiano-moreira-114b28176/">
+<a href="https://linkedin.com/in/cristiano-amaral-114b28176">
   <img align="right" alt="Cristiano Moreira | linkedin" width="21px" src="LinkedIn_icon.svg.png" />
 </a>
