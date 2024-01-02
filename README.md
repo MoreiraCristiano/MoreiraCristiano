@@ -1,6 +1,6 @@
 <div align="center" valign="top">
-  <div style="background-color: #4CAF50; color: black; padding: 10px; text-align: center;">
-  <h1>Bem-vindo ao Meu Perfil</h1>
+  <div >
+  <h1 style="background-color: #4CAF50; color: black; padding: 10px; text-align: center;">Bem-vindo ao Meu Perfil</h1>
 </div>
 
 <div align="center" valign="top">
