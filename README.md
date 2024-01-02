@@ -1,6 +1,5 @@
 <div align="center" valign="top">
-  <h1>Welcome</h1>
-  <h2>I'm Cristiano</h2>
+  <h1>Welcome, I'm Cristiano</h1>
 </div>
 
 <div align="center" valign="top">
