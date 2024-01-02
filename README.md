@@ -2,7 +2,7 @@
   <h1>Welcome,<br>I'm Cristiano</h1>
 </div>
 
-### About me
+#### About me
 
 - I'm a Computer Engineer 💻
 - Python development 🐍
@@ -23,3 +23,11 @@
   <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">
 </div>
+
+#### Top Repositories
+
+<a href="https://github.com/MoreiraCristiano/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MoreiraCristiano&repo=ssh-inventory&theme=buefy" />
+</a>
+
+<br />
