@@ -1,7 +1,5 @@
-# Cristiano Moreira do Amaral
-
 <div>
-  <img  height="210em" src="Hello-I-m-Cristiano-02-01-2024.png"/>
+  <img  height="150em" src="Hello-I-m-Cristiano-02-01-2024.png"/>
 </div>
 
 <div>
