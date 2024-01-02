@@ -9,13 +9,13 @@
 
 ### Github stats
 <div>
-  <img  style="margin-right: 1em;" height="210em" src="https://github-readme-stats.vercel.app/api?username=MoreiraCristiano&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img  style="margin-right: 1em;" height="210em" src="https://github-readme-stats.vercel.app/api?username=MoreiraCristiano&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
 ### Top repositories
 
 <a href="https://github.com/MoreiraCristiano/ssh-inventory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MoreiraCristiano&repo=ssh-inventory&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MoreiraCristiano&repo=ssh-inventory&theme=radical&hide_border=true" />
 </a>
 
 ### Technologies
