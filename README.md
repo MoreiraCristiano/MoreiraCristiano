@@ -13,15 +13,11 @@
   <img  height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraCristiano&layout=compact&langs_count=16&theme=radical&hide_progress=true"/>
 </div>
 
-<br />
-
 #### Top Repositories
 
 <a href="https://github.com/MoreiraCristiano/ssh-inventory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MoreiraCristiano&repo=ssh-inventory&theme=radical" />
 </a>
-
-<br />
 
 #### Technologies
 <div>
