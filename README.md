@@ -14,8 +14,8 @@
 
 <br />
 
+#### Technologies
 <div align="center" valign="top">
-  Technologies:
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
   <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
@@ -27,7 +27,7 @@
 #### Top Repositories
 
 <a href="https://github.com/MoreiraCristiano/ssh-inventory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MoreiraCristiano&repo=ssh-inventory&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MoreiraCristiano&repo=ssh-inventory&theme=radical" />
 </a>
 
 <br />
