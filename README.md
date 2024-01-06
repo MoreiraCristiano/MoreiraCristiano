@@ -10,7 +10,7 @@
 ### Github stats
 <div>
   <img  style="margin-right: 1em;" height="210em" src="https://github-readme-stats.vercel.app/api?username=MoreiraCristiano&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img  style="margin-right: 1em;" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraCristiaano&hide_progress=true"/>
+  <img  style="margin-right: 1em;" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraCristiano&hide_progress=true"/>
 </div>
 
 ### Top repositories
