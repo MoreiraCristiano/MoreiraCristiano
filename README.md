@@ -15,7 +15,7 @@
 ### Top repositories
 
 <a href="https://github.com/MoreiraCristiano/ssh-inventory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MoreiraCristiano&repo=ssh-inventory&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MoreiraCristiano&repo=ssh-inventory&theme=react&hide_border=true" />
 </a>
 
 ### Technologies
