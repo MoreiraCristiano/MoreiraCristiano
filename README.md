@@ -2,21 +2,7 @@
   <h1>Welcome,<br>I'm Cristiano</h1>
 </div>
 
-### About me
 
-- I'm a Computer Engineer 💻
-- Python development 🐍
-
-### Github stats
-<div>
-  <img  style="margin-right: 1em;" height="210em" src="https://github-readme-stats.vercel.app/api?username=MoreiraCristiano&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-
-### Top repositories
-
-<a href="https://github.com/MoreiraCristiano/ssh-inventory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MoreiraCristiano&repo=ssh-inventory&theme=react&hide_border=true" />
-</a>
 
 ### Technologies
 <div>
